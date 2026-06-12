@@ -1,0 +1,92 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env
+
+# Variáveis de ambiente locais (contém chaves secretas)
+.env
+.env.local
+.env.production
+
+# ============================================
+# Modelos e dados grandes
+# ============================================
+# Modelos HuggingFace (descarregados em cache)
+*.bin
+*.h5
+*.pkl
+*.pt
+*.safetensors
+!.gitkeep
+
+# Cache do HuggingFace
+cache/
+.cache/
+hf_cache/
+
+# Dados de treino (opcional – se quiseres versionar, remove esta linha)
+data/raw/
+
+# ============================================
+# FAISS (índices locais – gerados automaticamente)
+# ============================================
+faiss_index/
+
+# ============================================
+# Jupyter / Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# IDEs e editores
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Logs e ficheiros temporários
+# ============================================
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# ============================================
+# Docker (opcional – se usares volumes)
+# ============================================
+docker-compose.override.yml
+.dockerignore
+
+# ============================================
+# Testes
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ============================================
+# Outros
+# ============================================
+*.bak
+*.orig
+*.pid

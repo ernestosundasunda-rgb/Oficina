@@ -1,0 +1,89 @@
+{
+  "faq_oficina": [
+    {
+      "pergunta": "Quais serviços a oficina oferece?",
+      "resposta": "Oferecemos manutenção preventiva e corretiva: troca de óleo, revisão geral, diagnóstico eletrônico, alinhamento, balanceamento, freios, suspensão, motor e transmissão.",
+      "categoria": "servicos",
+      "palavras_chave": ["serviços", "manutenção", "oficina", "revisão", "troca de óleo"]
+    },
+    {
+      "pergunta": "Vocês fazem diagnóstico eletrônico?",
+      "resposta": "Sim, utilizamos equipamentos modernos para identificar falhas no veículo com precisão.",
+      "categoria": "servicos",
+      "palavras_chave": ["diagnóstico", "scanner", "eletrônico"]
+    },
+    {
+      "pergunta": "Quais veículos são atendidos?",
+      "resposta": "Atendemos carros leves, SUVs, pick-ups e veículos utilitários.",
+      "categoria": "veiculos",
+      "palavras_chave": ["carros", "SUV", "pickup", "utilitários"]
+    },
+    {
+      "pergunta": "Qual é o horário de funcionamento?",
+      "resposta": "Funcionamos de segunda a sexta das 08h às 18h e sábado das 08h às 13h.",
+      "categoria": "horario",
+      "palavras_chave": ["horário", "funcionamento", "abertura"]
+    },
+    {
+      "pergunta": "Onde fica a oficina?",
+      "resposta": "Estamos localizados em ANgola na provincia do uige no bairro popular na Rua Rainha Ginga.",
+      "categoria": "localizacao",
+      "palavras_chave": ["endereço", "localização", "onde fica"]
+    },
+    {
+      "pergunta": "Com que frequência devo revisar meu carro?",
+      "resposta": "Recomenda-se revisão a cada 10.000 km ou a cada 6 meses.",
+      "categoria": "manutencao",
+      "palavras_chave": ["revisão", "manutenção", "intervalo"]
+    },
+    {
+      "pergunta": "Quanto tempo leva um serviço?",
+      "resposta": "Troca de óleo: 30 a 60 minutos. Revisão: 2 a 4 horas. Reparos maiores podem levar até 3 dias.",
+      "categoria": "tempo",
+      "palavras_chave": ["tempo", "duração", "serviço"]
+    },
+    {
+      "pergunta": "O orçamento é gratuito?",
+      "resposta": "Sim, realizamos orçamento sem custo.",
+      "categoria": "pagamento",
+      "palavras_chave": ["orçamento", "preço", "gratuito"]
+    },
+    {
+      "pergunta": "Quais formas de pagamento são aceitas?",
+      "resposta": "Aceitamos dinheiro, transferência bancária e cartão.",
+      "categoria": "pagamento",
+      "palavras_chave": ["pagamento", "cartão", "dinheiro", "transferência"]
+    },
+    {
+      "pergunta": "Preciso agendar antes?",
+      "resposta": "Recomendamos agendamento, mas também atendemos por ordem de chegada.",
+      "categoria": "agendamento",
+      "palavras_chave": ["agendar", "marcar", "atendimento"]
+    },
+    {
+      "pergunta": "Como agendar um serviço?",
+      "resposta": "Você pode agendar por telefone, WhatsApp ou presencialmente.",
+      "categoria": "agendamento",
+      "palavras_chave": ["agendamento", "contato", "marcação"]
+    },
+    {
+      "pergunta": "Os serviços têm garantia?",
+      "resposta": "Sim, todos os serviços possuem garantia.",
+      "categoria": "garantia",
+      "palavras_chave": ["garantia", "segurança", "serviço"]
+    },
+    {
+      "pergunta": "Quais sinais indicam que o carro precisa de manutenção?",
+      "resposta": "Luzes no painel acesas, ruídos estranhos, vibração, falhas nos freios ou consumo excessivo de combustível.",
+      "categoria": "diagnostico",
+      "palavras_chave": ["problemas", "sintomas", "falhas", "carro"]
+    },
+    {
+        "pergunta": "Quais são os vossos contactos?",
+        "resposta": "Telefone: +244 935 813 564 | WhatsApp: +244 943 869 435 | Email: ipncomercial@gmail.com | Morada: Rua Rainha Ginga,Bairro Pedreira, Uíge, Angola.",
+        "categoria": "contactos",
+        "palavras_chave": ["telefone", "whatsapp", "email", "contacto", "morada"]
+    }
+    
+  ]
+}
